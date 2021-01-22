@@ -13,8 +13,6 @@ func main() {
 	fmt.Println(true || true) //true
 	fmt.Println(true || false) //true
 	fmt.Println(!true) //false
-
-	fmt.Println(32132 * 42452) //1364067664
 }
 
 
